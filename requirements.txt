@@ -1,0 +1,25 @@
+# TwitchIO - Twitch 聊天機器人框架
+twitchio>=3.1.0
+
+# 資料庫
+asyncpg>=0.30.0
+
+# 環境變數管理
+python-dotenv>=1.0.0
+
+# 異步 HTTP 客戶端
+aiohttp>=3.9.0
+
+# 翻譯服務
+googletrans>=4.0.2
+
+# HTTP 請求
+requests>=2.31.0,<3.0.0
+
+# HTML 解析
+beautifulsoup4>=4.12.0,<5.0.0
+
+# HTML 解析器 (beautifulsoup4 的依賴，建議明確指定)
+lxml>=4.9.0,<5.0.0
+
+openai>=1.0.0
